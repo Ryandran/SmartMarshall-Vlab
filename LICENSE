@@ -1,0 +1,21 @@
+Copyright © 2026 Ryandra Narlan. All Rights Reserved.
+
+SmartMarshall-VLab is a research software application for
+machine-learning-based prediction of Marshall Stability and
+Marshall Flow in asphalt mixtures.
+
+The software, source code, trained machine-learning models,
+and associated implementation are protected intellectual
+property of the copyright holder.
+
+No permission is granted to copy, reproduce, modify,
+redistribute, sublicense, sell, or commercially exploit
+this software or any substantial part thereof without
+prior written permission from the copyright holder.
+
+Academic and educational use of the publicly accessible
+application is permitted, provided that appropriate
+citation to the associated research publication is made.
+
+Third-party libraries and components included or used by
+this software remain subject to their respective licenses.
